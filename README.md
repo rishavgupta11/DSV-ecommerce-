@@ -1,6 +1,6 @@
 # E-Commerce REST API
 
-A RESTful API for managing e-commerce items built with Spring Boot and Java 17. This application provides a complete backend solution for product management with in-memory data storage.
+A backend application built using Spring Boot and Java 17 that helps manage products for an e-commerce system. It allows you to add, view, update, and delete products, with all data stored temporarily in memory.
 
 ## Features
 
